@@ -24,6 +24,7 @@ A secure C++ application that encrypts and decrypts files using XOR operation wi
 
 ### Option 2: Build from Source
 ```bash
-git clone https://github.com/yourusername/file-encryptor.git
+git clone https://github.com/0xhex0rc1st/file-encryptor.git
 cd file-encryptor
+
 g++ encrypt_decrypt.cpp -o filecryptor -static -O2
